@@ -9,6 +9,7 @@ import css from "./assets/tools/css.png";
 import javascript from "./assets/tools/javascript.png";
 import tailwind from "./assets/tools/tailwind.png";
 import bootstrap from "./assets/tools/bootstrap.png";
+import react from "./assets/tools/react.png";
 import github from "./assets/tools/github.png";
 import git from "./assets/tools/git.png";
 import vscode from "./assets/tools/vscode.png";
@@ -25,6 +26,7 @@ const tools = [
   { name: "JavaScript", logo: javascript },
   { name: "Tailwind CSS", logo: tailwind },
   { name: "Bootstrap", logo: bootstrap },
+  { name: "React", logo: react },
   { name: "Github", logo: github },
   { name: "GIT", logo: git },
   { name: "Vscode", logo: vscode },

@@ -31,7 +31,7 @@ function Hero() {
           </h1>
 
           <h2 className="text-sm md:text-2xl font-extrabold tracking-wide uppercase">
-            SEP Specialist
+            SEO Specialist
           </h2>
 
           <p className="text-xs sm:text-sm md:text-lg text-[#9CA3AF] font-bold leading-relaxed">
