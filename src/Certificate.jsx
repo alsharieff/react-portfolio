@@ -1,3 +1,4 @@
+import wordpress from "./assets/certificate/wordpress-certificate.jpg";
 import href from "./assets/certificate/href.jpg";
 import zuitt from "./assets/certificate/zuitt.png";
 import devnet from "./assets/certificate/devnet-associate.png";
@@ -7,6 +8,13 @@ import ccnav7 from "./assets/certificate/cisco-ccnav7.png";
 
 function Certificate() {
   const certificates = [
+    {
+      image: wordpress,
+      title: "Wordpress & Elementor Mastery 2025",
+      issuer: "Udemy",
+      year: "2026",
+      link: "https://www.udemy.com/certificate/UC-08137616-4357-4e91-a149-14f21e6b8338/",
+    },
     {
       image: href,
       title: "Ahrefs SEO Certification",
